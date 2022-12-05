@@ -22,3 +22,8 @@ let A = 8;
 let B = 5;
 let C = 2;
 console.log(lastPosition(A, B, C));
+
+
+// Output: 4
+
+
